@@ -1,0 +1,437 @@
+body {
+
+    background-color: #000000; 
+}
+.A{
+    margin-left: 500PX;
+    text-decoration: none;
+font-weight: 500;
+font-size: 20PX;
+
+
+}
+.btn{
+    margin-top: 2rem;
+    color: white;
+   margin-left: 150px;
+
+    background-color:black; 
+    border-radius: 4rem; 
+    box-shadow: 0 0 10px aqua; 
+    padding:10px 30px;
+    margin-bottom: 50px;
+    transition: 0.3s ease-in-out;
+    border: 3px solid aqua;
+    cursor: pointer;
+}
+.btn:hover{
+    box-shadow: 0 0 20px aqua;
+   transform: scale(1.05);
+   background-color: aqua;
+}
+
+.Home{
+    padding: 50PX;
+    color: white;
+    text-decoration: none;
+
+}
+.Skills{
+    padding: 60PX;
+    color: white;
+    text-decoration: none;
+}
+.About{
+    padding: 60PX;
+    color: white;
+    text-decoration: none;
+}
+.Project{
+    padding: 60PX;
+    color: white;
+    text-decoration: none;
+}
+.Contact{
+    padding: 60PX;
+    color: white;
+    text-decoration: none;
+}
+.G{
+    padding: 10PX;
+    margin-top: -25PX;
+    font-size: 20PX;
+    font-style: oblique;
+}
+.H{
+margin-left: 135px;
+margin-top: 200px;
+font-size: 35px;
+}
+.ss{
+font-size: 40px;
+font-style: oblique;
+
+}
+.I{
+    color: white;
+    font-size: 22PX;
+    margin-left: 85PX;
+    margin-top: -15PX;
+
+}
+.J{
+    font-size: 25px;
+    color: white;
+    margin-left: 135px;
+    margin-top: 10px;
+}
+.Home:hover,
+.Home:active{
+    color:aqua;
+
+}
+.Skills:hover,
+.Skills:active{
+    color: aqua;
+}
+.About:hover,
+.About:active{
+    color: aqua;
+}
+.Project:hover,
+.Project:active{
+    color: aqua;
+}
+.Contact:hover,
+.Project:active{
+    color: aqua;
+}
+
+
+
+.p{
+    font-size: 2.5rem;
+    background: transparent;
+     color:aqua;
+     border-radius: 50%;
+     border: 3px solid aqua;
+     transition: 0.3s ease-in-out;
+    text-decoration: none;
+     width: 3.5rem;
+     height: 3.5rem;
+     justify-content: center;
+     display: inline-flex;
+     align-items: center;
+    margin-left: 200px;
+    margin-top: 100px;
+
+
+
+}
+.p:hover{
+    box-shadow: 0 0 25px aqua,
+    0 0 50px aqua ,
+    0 0 100px aqua;
+    color:white;
+    transform: scale(1.2)translateY(-5px);
+  background-color:aqua;
+    border: 3px solid aqua;
+
+}
+.l{
+    font-size: 2.5rem;
+    background: transparent;
+     color:aqua;
+     border-radius: 50%;
+     border: 3px solid aqua;
+     transition: 0.3s ease-in-out;
+     text-decoration: none;
+     width: 3.5rem;
+     height: 3.5rem;
+     justify-content: center;
+     display: inline-flex;
+     align-items: center;
+
+     margin-left: 10px;
+
+
+}
+.l:hover{
+    box-shadow: 0 0 25px aqua,
+    0 0 50px aqua ,
+    0 0 100px aqua;
+    color:white;
+    transform: scale(1.2)translateY(-5px);
+  background-color:aqua;
+    border: 3px solid aqua;
+
+}
+.m{
+    font-size: 2.5rem;
+    background: transparent;
+     color:aqua;
+     border-radius: 50%;
+     border: 3px solid aqua;
+     transition: 0.3s ease-in-out;
+     text-decoration: none;
+     width: 3.5rem;
+     height: 3.5rem;
+     justify-content: center;
+     display: inline-flex;
+     align-items: center;
+
+     margin-left: 10px;
+
+}
+.m:hover{
+    box-shadow: 0 0 25px aqua,
+    0 0 50px aqua ,
+    0 0 100px aqua;
+    color:white;
+    transform: scale(1.2)translateY(-5px);
+  background-color:aqua;
+    border: 3px solid aqua;
+
+}
+
+
+.n{
+    font-size: 2.5rem;
+    background: transparent;
+     color:aqua;
+     border-radius: 50%;
+     border: 3px solid aqua;
+     transition: 0.3s ease-in-out;
+     text-decoration: none;
+     width: 3.5rem;
+     height: 3.5rem;
+     justify-content: center;
+     display: inline-flex;
+     align-items: center;
+
+     margin-left: 10px;
+
+
+}
+
+.n:hover{
+    box-shadow: 0 0 25px aqua,
+    0 0 50px aqua ,
+    0 0 100px aqua;
+    color:white;
+    transform: scale(1.2)translateY(-5px);
+  background-color:aqua;
+    border: 3px solid aqua;
+  ;
+
+}
+.z{
+    font-size: 2.5rem;
+    background: transparent;
+     color:aqua;
+     border-radius: 50%;
+     border: 3px solid aqua;
+     transition: 0.3s ease-in-out;
+     text-decoration: none;
+     width: 3.5rem;
+     height: 3.5rem;
+     justify-content: center;
+     display: inline-flex;
+     align-items: center;
+
+     margin-left: 10px;
+
+
+
+}
+
+.z:hover{
+    box-shadow: 0 0 25px aqua,
+    0 0 50px aqua ,
+    0 0 100px aqua;
+    color:white;
+    transform: scale(1.2)translateY(-5px);
+  background-color:aqua;
+    border: 3px solid aqua;}
+
+
+
+.k{
+
+    box-shadow: 0 0 50px aqua;
+   border: 5px solid aqua;
+   border-radius: 50%;
+
+    margin-left: 600px;
+    margin-top: -300px;
+    font-size: 50px;
+    height: 350px;
+    width: 300px;
+
+}
+.k:hover{
+    box-shadow: 0 0 25px aqua,
+                0 0 50px aqua ,
+                0 0 100px aqua;
+    border: 5px solid aqua;
+
+}
+
+
+.text-animation span{
+
+    position: relative;
+    margin-left: 290px;
+
+
+
+    }
+    .text-animation{
+        margin-top: -90px;
+    }
+.it{
+    margin-left:135px ;
+    margin-top: -10px;
+}
+
+    .text-animation span::before{
+
+    content: "Frontend Designer"
+    ;
+
+    color: aqua;
+
+    animation: words 20s infinite;
+
+    }
+
+    .text-animation span::after{
+
+    content: "";
+
+    background-color:rgb(0, 0, 0);
+
+    position: absolute;
+
+    width: calc(100% + 80px);
+
+    height: 100%;
+
+    border-left: 3px solid black;
+
+    right: -8px;
+
+    animation: cursor 0.6s infinite, typing 20s steps(14) infinite;
+
+    }
+    @keyframes cursor{
+        from{
+            border-right: 3px black;
+        }
+
+        to{
+
+        border-left: 3px solid rgb(0, 0, 0);
+
+        }
+
+
+
+        }
+
+        @keyframes words{
+
+        0%,
+
+        20%{
+
+        content: "Frontend Designer";
+
+        }
+
+        21%,
+
+        40%{
+
+        content: "Web Designer";
+
+        }
+
+        41%,
+
+        60%{
+
+        content: "UI / UX Designer";
+
+        }
+
+        61%,
+        80%{
+
+        content: "Web Developer";
+
+        }
+
+        81%,
+        100%{
+        content: "Software Tester";
+     }
+
+        }
+        @keyframes typing{
+            10%,
+            15%,
+            30%,
+            35%,
+            50%,
+            55%,
+            70%,
+            75%,
+            90%,
+            95%{    
+            width: 0;    
+            }
+            5%,
+            20%,
+            25%,
+            40%,
+            45%,
+            60%,
+            65%,
+            80%,
+            85%{
+            width: calc(100% + 8px);
+            }
+        }
+
+        .a{
+            margin-top: -100px;
+            margin-left: -73px;
+        }
+
+        .imag{
+            height: 350px;
+            width: 350px;
+
+
+
+     border-radius: 50%;
+     box-shadow: 0 0 25px aqua,
+    0 0 50px aqua,
+    0 0 100px aqua;
+    color:white;
+  background-color:aqua;
+    border: 7px solid aqua;
+
+}
+
+.images{
+    margin-left: 850px;
+    margin-top: -450px;
+}
+.zz{
+    font-size: 30px;
+    font-weight: bolder;
+  margin-left: -100px;
+  margin-top: -50px;
+}

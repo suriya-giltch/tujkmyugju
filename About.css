@@ -1,0 +1,101 @@
+body {
+
+    background-color: #000000; 
+}
+.A{
+    margin-left: -50PX;
+    text-decoration: none;
+font-weight: 500;
+font-size: 20PX;
+
+}
+.Home{
+    padding: 50PX;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.Home:hover,
+.Home:active{
+    color:aqua;
+
+}
+
+
+
+.contact h2{
+
+    color: white;
+    margin-left: 600px;
+   font-size: 70px;
+   margin-top: -10px;
+}
+.contact h2 span{
+    color: aqua;
+}
+.ph{
+    color: white;
+    margin-top: 50px;
+    margin-left: 600px;
+}
+
+.a{
+    margin-left: 550px;
+}
+
+
+.timeline-date {
+    font-weight: 800;
+    margin: 6px 0 15px;
+    font-size:20px;
+    color: gray;
+    margin-left: 800px;
+}
+
+
+
+
+.timeline-content {
+    background-color:black; 
+
+    margin-left: 50px; 
+
+
+}
+
+.timeline-content h2 {
+    color: aqua; 
+    font-size: 20px;
+    margin: 0 0 10px;
+    font-weight: 500;
+}
+
+.timeline-content p {
+    color:white;
+    line-height: 22px; 
+    margin: 10px 0; 
+    font-size: 16px;
+    font-weight: 300;
+    margin-left: 100px;
+}
+        .imag{
+
+            margin-top: -600px;
+            height: 650px;
+            width: 550px;
+
+
+
+     justify-content: center;
+     display: inline-flex;
+     align-items: center;
+
+
+}
+
+.images{
+    margin-left: -50px;
+    margin-top: -265PX;
+}
